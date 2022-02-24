@@ -6,7 +6,7 @@ namespace Part_3a_Console_Input
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("this and that!");
         }
     }
 }
